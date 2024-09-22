@@ -1,0 +1,1 @@
+change the room goto obj to the previous if you want to make it got back

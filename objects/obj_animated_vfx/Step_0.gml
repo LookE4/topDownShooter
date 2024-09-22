@@ -1,0 +1,2 @@
+//pause 
+screen_pause();

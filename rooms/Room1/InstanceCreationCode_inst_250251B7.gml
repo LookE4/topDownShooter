@@ -1,0 +1,1 @@
+weapon = global.weapon_list.purple_rod;
